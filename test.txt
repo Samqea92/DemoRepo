@@ -3,9 +3,8 @@
 
  Directory of C:\Git Repository
 
-29-04-2020  08:16    <DIR>          .
-29-04-2020  08:16    <DIR>          ..
-29-04-2020  07:56    <DIR>          Sample Project
-29-04-2020  08:16                 0 test.txt
+29-04-2020  10:27    <DIR>          .
+29-04-2020  10:27    <DIR>          ..
+29-04-2020  10:27                 0 test.txt
                1 File(s)              0 bytes
-               3 Dir(s)  173,571,653,632 bytes free
+               2 Dir(s)  173,487,857,664 bytes free
