@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 68F7-7C84
+
+ Directory of C:\Git Repository
+
+30-04-2020  07:28    <DIR>          .
+30-04-2020  07:28    <DIR>          ..
+29-04-2020  10:31    <DIR>          DemoTest
+30-04-2020  07:11               117 test2.txt
+30-04-2020  07:28                 0 test3.txt
+               2 File(s)            117 bytes
+               3 Dir(s)  172,236,820,480 bytes free
