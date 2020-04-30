@@ -1,11 +1,5 @@
- Volume in drive C is Windows
- Volume Serial Number is 68F7-7C84
-
- Directory of C:\Git Repository
-
-29-04-2020  10:53    <DIR>          .
-29-04-2020  10:53    <DIR>          ..
-29-04-2020  10:31    <DIR>          DemoTest
-29-04-2020  10:53                 0 test2.txt
-               1 File(s)              0 bytes
-               3 Dir(s)  173,482,000,384 bytes free
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+} 
